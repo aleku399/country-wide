@@ -117,7 +117,7 @@ export default function ContactFormSection() {
                       href="mailto:info@nationalprojectsimplementation.org"
                       className="text-gray-900 hover:text-red-600 transition-colors"
                     >
-                      info@nationalprojectsimplementation.org
+                      info@countrywideprojectsimplementation.org
                     </a>
                   </div>
                 </div>

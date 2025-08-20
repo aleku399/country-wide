@@ -13,7 +13,7 @@ const navigationItems = [
   { name: "Our Team", href: "/team" },
   { name: "Directorates", href: "/directorates" },
   { name: "Mandate", href: "/mandate" },
-  { name: "Projects", href: "/projects" },
+  { name: "Projects", href: "#" },
   { name: "Secretariat", href: "/secretariat" },
   { name: "Contact", href: "/contact" },
 ];
@@ -52,7 +52,7 @@ export default function Navbar() {
               <div className="flex items-center space-x-2 text-gray-600">
                 <Mail className="h-4 w-4 text-red-500" />
                 <span className="hidden sm:inline">
-                  info@nationalprojectsimplemention.org
+                  info@countrywideprojectsimplemention.org
                 </span>
                 <span className="sm:hidden">Contact Us</span>
               </div>

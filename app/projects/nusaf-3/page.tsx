@@ -42,7 +42,7 @@ export default function NusafProjectPage() {
             transition={{ duration: 0.6 }}
             className="flex items-center justify-center gap-2 text-sm mb-8"
           >
-            <span>National Projects Implementation</span>
+            <span>Country Wide Projects Implementation</span>
             <span>/</span>
             <span>Northern Uganda Social Action Fund (NUSAF) 3</span>
           </motion.div>

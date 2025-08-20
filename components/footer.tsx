@@ -62,13 +62,13 @@ export default function Footer() {
               </div>
               <div>
                 <h3 className="text-xl font-bold text-white">
-                  National Projects
+                  Country Wide Projects
                 </h3>
                 <p className="text-sm text-gray-400">Implementation</p>
               </div>
             </div>
             <p className="text-gray-300 leading-relaxed mb-6 max-w-md">
-              National Projects Implementation has been at the forefront of
+              Country Wide Projects Implementation has been at the forefront of
               promoting efficient and impactful implementation of government
               initiatives, driving sustainable development across Uganda.
             </p>
@@ -136,7 +136,7 @@ export default function Footer() {
                     href="mailto:info@nationalprojectsimplementation.org"
                     className="text-white hover:text-red-400 transition-colors duration-300"
                   >
-                    info@nationalprojectsimplementation.org
+                    info@countrywideprojectsimplementation.org
                   </a>
                 </div>
               </div>
@@ -179,7 +179,8 @@ export default function Footer() {
           variants={itemVariants}
         >
           <p className="text-gray-400 text-sm text-center md:text-left">
-            © 2024 National Projects Implementation. All rights reserved.
+            © {new Date().getFullYear()} Country Wide Projects Implementation.
+            All rights reserved.
           </p>
           <div className="flex gap-6 text-sm">
             <a

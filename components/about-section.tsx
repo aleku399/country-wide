@@ -149,7 +149,7 @@ export default function AboutSection() {
                 <div className="w-8 h-0.5 bg-red-600"></div>
               </div>
               <h2 className="text-4xl font-bold text-gray-900 mb-6">
-                About National Projects Implementation
+                About Country Wide Projects Implementation
               </h2>
               <p className="text-lg text-gray-600 leading-relaxed">
                 We are a dynamic organization committed to driving effective

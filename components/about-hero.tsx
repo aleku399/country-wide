@@ -42,7 +42,7 @@ export default function AboutHero() {
       >
         <nav className="flex items-center space-x-2 text-white">
           <Link href="/" className="text-white/80 hover:text-white transition-colors text-sm font-medium">
-            National Projects Implementation
+            Country Wide Projects Implementation
           </Link>
           <ChevronRight className="h-4 w-4 text-white/60" />
           <span className="text-white text-sm font-medium">About Us</span>

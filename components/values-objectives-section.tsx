@@ -72,6 +72,7 @@ export default function ValuesObjectivesSection() {
                     <motion.div
                       animate={{ rotate: expandedValue === index ? 180 : 0 }}
                       transition={{ duration: 0.2 }}
+                      className="cursor-pointer "
                     >
                       {expandedValue === index ? (
                         <Minus className="w-5 h-5 text-gray-500" />

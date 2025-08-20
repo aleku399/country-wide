@@ -36,7 +36,7 @@ export default function TeamHero() {
         animate={{ opacity: 1, x: 0 }}
         transition={{ duration: 0.8, delay: 0.3 }}
       >
-        <span>National Projects Implementation</span>
+        <span>Country Wide Projects Implementation</span>
         <ChevronRight className="w-4 h-4 mx-2" />
         <span>Our Team</span>
       </motion.div>

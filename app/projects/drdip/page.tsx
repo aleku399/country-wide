@@ -42,7 +42,7 @@ export default function DrdipProjectPage() {
             transition={{ duration: 0.6 }}
             className="flex items-center justify-center gap-2 text-sm mb-8"
           >
-            <span>National Projects Implementation</span>
+            <span>Country Wide Projects Implementation</span>
             <span>/</span>
             <span>Development Response to Displacement Impact Project (DRDIP)</span>
           </motion.div>

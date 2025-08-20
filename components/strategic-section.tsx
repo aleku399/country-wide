@@ -2,6 +2,7 @@
 
 import { motion } from "framer-motion";
 import { useInView } from "framer-motion";
+import Link from "next/link";
 import { useRef } from "react";
 
 const strategicItems = [
@@ -60,9 +61,11 @@ export default function StrategicSection() {
               <p className="text-gray-600 mb-6 leading-relaxed">
                 {item.description}
               </p>
-              <button className="bg-gray-600 text-white px-6 py-2 rounded hover:bg-gray-700 transition-colors duration-200">
-                See More
-              </button>
+              <Link href={"/projects/drdip"}>
+                <button className="bg-gray-600 text-white px-6 py-2 rounded hover:bg-gray-700 transition-colors duration-200">
+                  See More
+                </button>
+              </Link>
             </motion.div>
           ))}
         </div>

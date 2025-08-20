@@ -28,7 +28,7 @@ export default function BackgroundSection() {
             <h2 className="text-4xl lg:text-5xl font-bold text-gray-900">Background</h2>
 
             <p className="text-gray-600 text-lg leading-relaxed">
-              National Projects Implementation has been at the forefront of promoting efficient and impactful
+              Country Wide Projects Implementation has been at the forefront of promoting efficient and impactful
               implementation of government initiatives. Over the years, we have built a strong reputation for our
               expertise in strategic coordination, monitoring and evaluation, disaster preparedness, special programs,
               and efficient administration and finance

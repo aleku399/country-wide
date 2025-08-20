@@ -35,7 +35,7 @@ export default function SecretariatHero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.2 }}
         >
-          <span>National Projects Implementation</span>
+          <span>Country Wide Projects Implementation</span>
           <ChevronRight className="w-4 h-4" />
           <span>Sustainable Development Goals</span>
         </motion.div>
